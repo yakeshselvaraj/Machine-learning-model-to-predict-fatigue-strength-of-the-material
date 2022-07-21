@@ -6,3 +6,7 @@ REQUIRMENTS
      *Python
      *Dataset on which machine learning model is performed 
      *Basic Understanding on most common machine learning models .eg,Regression, 
+
+
+Reference for papaer and machine learning techniques : Agrawal et al. Integrating Materials and Manufacturing Innovation 2014, 3:8
+http://www.immijournal.com/content/3/1/8
